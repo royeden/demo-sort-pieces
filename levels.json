@@ -1,0 +1,198 @@
+{
+  "levels": [
+    [
+      {
+        "id": "los-ingleses",
+        "type": "personaje"
+      },
+      {
+        "id": "invadieron",
+        "type": "acción"
+      },
+      {
+        "id": "en-1806",
+        "type": "año"
+      }
+    ],
+    [
+      {
+        "id": "belgrano",
+        "type": "personaje"
+      },
+      {
+        "id": "se-refugió",
+        "type": "acción"
+      },
+      {
+        "id": "en-la-capilla-de-mercedes",
+        "type": "lugar"
+      }
+    ],
+    [
+      {
+        "id": "en-1808",
+        "type": "año"
+      },
+      {
+        "id": "existía-el-carlotismo",
+        "type": "objeto"
+      },
+      {
+        "id": "en-buenos-aires",
+        "type": "lugar"
+      }
+    ],
+    [
+      {
+        "id": "belgrano",
+        "type": "personaje"
+      },
+      {
+        "id": "planeó",
+        "type": "acción"
+      },
+      {
+        "id": "la-revolución",
+        "type": "objeto"
+      }
+    ],
+    [
+      {
+        "id": "belgrano",
+        "type": "personaje"
+      },
+      {
+        "id": "creó",
+        "type": "acción"
+      },
+      {
+        "id": "la-bandera",
+        "type": "objeto"
+      }
+    ],
+    [
+      {
+        "id": "saravia",
+        "type": "personaje"
+      },
+      {
+        "id": "espió",
+        "type": "acción"
+      },
+      {
+        "id": "a-los-realistas",
+        "type": "objeto"
+      }
+    ],
+    [
+      {
+        "id": "belgrano",
+        "type": "personaje"
+      },
+      {
+        "id": "negoció",
+        "type": "acción"
+      },
+      {
+        "id": "la-independencia",
+        "type": "objeto"
+      }
+    ],
+    [
+      {
+        "id": "se-declaró",
+        "type": "acción"
+      },
+      {
+        "id": "la-independencia",
+        "type": "objeto"
+      },
+      {
+        "id": "en-1816",
+        "type": "año"
+      },
+      {
+        "id": "en-argentina",
+        "type": "lugar"
+      }
+    ]
+  ],
+  "fakes": [
+    {
+      "id": "san-martín",
+      "type": "personaje"
+    },
+    {
+      "id": "castelli",
+      "type": "personaje"
+    },
+    {
+      "id": "cisneros",
+      "type": "personaje"
+    },
+    {
+      "id": "sobremonte",
+      "type": "personaje"
+    },
+    {
+      "id": "inspiró",
+      "type": "acción"
+    },
+    {
+      "id": "atacó",
+      "type": "acción"
+    },
+    {
+      "id": "dibujó",
+      "type": "acción"
+    },
+    {
+      "id": "organizó",
+      "type": "acción"
+    },
+    {
+      "id": "en-1801",
+      "type": "año"
+    },
+    {
+      "id": "en-1890",
+      "type": "año"
+    },
+    {
+      "id": "en-1916",
+      "type": "año"
+    },
+    {
+      "id": "en-1091",
+      "type": "año"
+    },
+    {
+      "id": "la-revolución-francesa",
+      "type": "objeto"
+    },
+    {
+      "id": "la-realeza-española",
+      "type": "objeto"
+    },
+    {
+      "id": "la-táctica-militar",
+      "type": "objeto"
+    },
+    {
+      "id": "en-santiago-del-estero",
+      "type": "lugar"
+    },
+    {
+      "id": "en-europa",
+      "type": "lugar"
+    },
+    {
+      "id": "en-brasil",
+      "type": "lugar"
+    },
+    {
+      "id": "en-inglaterra",
+      "type": "lugar"
+    }
+  ]
+}

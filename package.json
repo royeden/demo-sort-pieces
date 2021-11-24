@@ -3,16 +3,24 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "latest",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-modal": "^3.14.4",
+    "sorting-game": "https://github.com/royeden/sorting-pieces-game"
   },
   "devDependencies": {
+    "@types/react": "^17.0.36",
+    "@types/react-modal": "^3.13.1",
     "autoprefixer": "^10.2.6",
+    "eslint": "<8.0.0",
+    "eslint-config-next": "12.0.4",
     "postcss": "^8.3.5",
-    "tailwindcss": "^2.2.4"
+    "tailwindcss": "^2.2.4",
+    "typescript": "^4.5.2"
   }
 }
