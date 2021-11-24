@@ -36,7 +36,7 @@ export function buildLevels(
         .map((s) => capitalize(s))
         .join(" ")}`,
       data: {
-        text: id.replaceAll("-", " "),
+        text: id.replace(/-/g, " "),
         type: type as GamePieceType,
       },
     }));
@@ -52,7 +52,7 @@ export function buildLevels(
               .map((s) => capitalize(s))
               .join(" ")}`,
             data: {
-              text: id.replaceAll("-", " "),
+              text: id.replace(/-/g, " "),
               type: type as GamePieceType,
             },
           }))
